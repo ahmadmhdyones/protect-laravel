@@ -100,6 +100,12 @@ Many PHP developers need to protect their application source code before they di
 
 - There is no way to decrypt the source code, the **only one who will have the source code is you**[^5].
 
+- You may face some problems/issues when you use encryption commands:
+
+  - [failed to open stream: No such file or directory](https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/13) (*just modify the `Laravel-Source-Encrypter/src/SourceEncryptCommand.php` file*[^6])
+
+  - You may run the encryption command and everything went well, but you got an exception about `.gitignore`. You don't have to worry about that. Keep going and ignore that exception.
+
 ## See Also
 
 ### phpBolt
@@ -117,6 +123,11 @@ Many PHP developers need to protect their application source code before they di
 - [Cron stuck when code encrypted](https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/19)
 - [.env or config file Encryption](https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/4) (#upcoming)
 
+## Run project
+
+- You have to install Laravel-Source-Encrypter to be able run `php artisan serve`.
+- You cannot run the project if you don't configure the phpBolt, because the `/app` directory is encrypted, and it needs to be decrypted if you want to run it.
+
 ## References
 
 - [phpBolt – Website](https://phpbolt.com/)
@@ -131,3 +142,4 @@ Many PHP developers need to protect their application source code before they di
 [^3]: https://github.com/arshidkv12/phpBolt/issues/1#issuecomment-1279435602
 [^4]: https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/25#issuecomment-1310626116
 [^5]: https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/27#issuecomment-1313151901
+[^6]: https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter/issues/13#issuecomment-1118414546
