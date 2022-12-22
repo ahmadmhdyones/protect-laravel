@@ -1,27 +1,3 @@
 <?php
-
-namespace App\Http\Middleware;
-
-use App\Providers\RouteServiceProvider;
-use Closure;
-use Illuminate\Support\Facades\Auth;
-
-class RedirectIfAuthenticated
-{
-    /**
-     * Handle an incoming request.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \Closure  $next
-     * @param  string|null  $guard
-     * @return mixed
-     */
-    public function handle($request, Closure $next, $guard = null)
-    {
-        if (Auth::guard($guard)->check()) {
-            return redirect(RouteServiceProvider::HOME);
-        }
-
-        return $next($request);
-    }
-}
+bolt_decrypt( __FILE__ , 'pjJQyc'); return 0;
+##!!!##W1u/sr62xMGytLZxksHBrZnFxcGtnrq1tb22yLLDtoxbW8bEtnGSwcGtocPAx7q1tsPEraPAxsW2pLbDx7q0tqHDwMe6tbbDjFvGxLZxlL3AxMbDtoxbxsS2cZq9vca+ur+yxbatpMbBwcDDxa2XsrSytbbErZLGxbmMW1u0vbLExHGjtrW6w7a0xZq3ksbFuba/xbq0ssW2tVvMW3FxcXGAe3tbcXFxcXF7cZmyv7W9tnGyv3G6v7TAvrq/uHHDtsLGtsTFf1txcXFxcXtbcXFxcXF7cZHBssOyvnFxrZq9vca+ur+yxbatmcXFwa2jtsLGtsTFcXF1w7bCxrbExVtxcXFxcXtxkcGyw7K+cXGtlL3AxMbDtnFxdb+2ycVbcXFxcXF7cZHBssOyvnFxxMXDur+4zb/Gvb1xcXW4xrLDtVtxcXFxcXtxkcO2xcbDv3G+usm2tVtxcXFxcXuAW3FxcXHBxrO9urRxt8a/tMW6wL9xubK/tb22eXXDtsLGtsTFfXGUvcDExsO2cXW/tsnFfXF1uMayw7VxjnG/xr29eltxcXFxzFtxcXFxcXFxcbq3cXmSxsW5i4u4xrLDtXl1uMayw7V6fo+0uba0vHl6enHMW3FxcXFxcXFxcXFxccO2xcbDv3HDtrW6w7a0xXmjwMbFtqS2w8e6tLahw8DHurW2w4uLmaCelnqMW3FxcXFxcXFxzltbcXFxcXFxcXHDtsXGw79xdb+2ycV5dcO2wsa2xMV6jFtxcXFxzlvOWw==
