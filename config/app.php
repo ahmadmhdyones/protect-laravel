@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        \sbamtr\LaravelSourceEncrypter\SourceEncryptServiceProvider::class,
 
         /*
          * Application Service Providers...
