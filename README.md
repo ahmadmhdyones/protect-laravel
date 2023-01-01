@@ -125,7 +125,22 @@ Many PHP developers need to protect their application source code before they di
 
 ## Run project
 
+- Install packages and dependencies
+
+    ```sh
+    composer install
+    ```
+
+- Add environment variables file `.env`
+  - copy the `.env.example` file and past it as `.env`
+  - Generate app key
+
+    ```sh
+    php artisan key:generate
+    ```
+
 - You have to install Laravel-Source-Encrypter to be able run `php artisan serve`.
+
 - You cannot run the project if you don't configure the phpBolt, because the `/app` directory is encrypted, and it needs to be decrypted if you want to run it.
 
 ## References

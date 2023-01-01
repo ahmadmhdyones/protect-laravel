@@ -1,3 +1,39 @@
 <?php
-bolt_decrypt( __FILE__ , 'IOVclD'); return 0;
-##!!!##CwtvYm5mdHFiZGYhQnFxPAsLdnRmIUptbXZuam9idWZdRHBvdXNiZHV0XUJ2dWldTnZ0dVdmc2pnekZuYmptPAt2dGYhSm1tdm5qb2J1Zl1HcHZvZWJ1anBvXUJ2dWldVnRmcyFidCFCdnVpZm91amRidWJjbWY8C3Z0ZiFKbW12bmpvYnVmXU9wdWpnamRidWpwb3RdT3B1amdqYmNtZjwLC2RtYnR0IVZ0ZnMhZnl1Zm9ldCFCdnVpZm91amRidWJjbWYLfAshISEhdnRmIU9wdWpnamJjbWY8CwshISEhMCsrCyEhISEhKyFVaWYhYnV1c2pjdnVmdCF1aWJ1IWJzZiFuYnR0IWJ0dGpob2JjbWYvCyEhISEhKwshISEhISshQXdicyFic3NiegshISEhISswCyEhISFxc3B1ZmR1ZmUhJWdqbW1iY21mIT4hXAshISEhISEhIShvYm5mKC0hKGZuYmptKC0hKHFidHR4cHNlKC0LISEhIV48CwshISEhMCsrCyEhISEhKyFVaWYhYnV1c2pjdnVmdCF1aWJ1IXRpcHZtZSFjZiFpamVlZm8hZ3BzIWJzc2J6dC8LISEhISErCyEhISEhKyFBd2JzIWJzc2J6CyEhISEhKzALISEhIXFzcHVmZHVmZSElaWplZWZvIT4hXAshISEhISEhIShxYnR0eHBzZSgtIShzZm5mbmNmc2B1cGxmbygtCyEhISFePAsLISEhITArKwshISEhISshVWlmIWJ1dXNqY3Z1ZnQhdWlidSF0aXB2bWUhY2YhZGJ0dSF1cCFvYnVqd2YhdXpxZnQvCyEhISEhKwshISEhISshQXdicyFic3NiegshISEhISswCyEhISFxc3B1ZmR1ZmUhJWRidHV0IT4hXAshISEhISEhIShmbmJqbWB3ZnNqZ2pmZWBidSghPj8hKGVidWZ1am5mKC0LISEhIV48C34L
+
+namespace App;
+
+use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
+
+class User extends Authenticatable
+{
+    use Notifiable;
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'name', 'email', 'password',
+    ];
+
+    /**
+     * The attributes that should be hidden for arrays.
+     *
+     * @var array
+     */
+    protected $hidden = [
+        'password', 'remember_token',
+    ];
+
+    /**
+     * The attributes that should be cast to native types.
+     *
+     * @var array
+     */
+    protected $casts = [
+        'email_verified_at' => 'datetime',
+    ];
+}

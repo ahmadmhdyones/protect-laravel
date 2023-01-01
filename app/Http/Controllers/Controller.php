@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'Dbc4ka'); return 0;
-##!!!##ExN3anZufHlqbG4pSnl5ZVF9fXllTHh3fXt4dXVue3xEExN+fG4pUnV1fnZyd2p9bmVPeH53bWp9cnh3ZUp+fXFlSmxsbnx8ZUp+fXF4e3KDbnxbbnp+bnx9fEQTfnxuKVJ1dX52cndqfW5lT3h+d21qfXJ4d2VLfnxlTXJ8eWp9bHFufFN4a3xEE358bilSdXV+dnJ3an1uZU94fndtan1yeHdlX2p1cm1qfXJ4d2VfanVybWp9bnxbbnp+bnx9fEQTfnxuKVJ1dX52cndqfW5lW3h+fXJ3cGVMeHd9e3h1dW57KWp8KUtqfG5MeHd9e3h1dW57RBMTbHVqfHwpTHh3fXt4dXVueylugX1ud218KUtqfG5MeHd9e3h1dW57E4QTKSkpKX58bilKfn1xeHtyg258W256fm58fXw1KU1yfHlqfWxxbnxTeGt8NSlfanVybWp9bnxbbnp+bnx9fEQThhM=
+
+namespace App\Http\Controllers;
+
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Foundation\Bus\DispatchesJobs;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Routing\Controller as BaseController;
+
+class Controller extends BaseController
+{
+    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+    public function test_protect() {
+        return "Cillum sunt sunt esse quis. Irure ad anim occaecat eiusmod occaecat tempor. Duis ullamco minim esse magna ullamco occaecat nostrud fugiat adipisicing sit. Culpa ad occaecat enim minim veniam mollit sunt dolore irure sint occaecat. Id ex voluptate nisi mollit aliquip nulla. Dolore aliquip dolor nulla eiusmod proident et nostrud eu cillum ut.";
+    }
+}

@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'nNsvuX'); return 0;
-##!!!##fHzg09/X5eLT1deSs+LizsLk4ejb1tfk5a18fOfl15K73t7n39vg0+bXzsXn4uLh5ObOuNPV09bX5c605OHT1tXT5eatfOfl15K73t7n39vg0+bXzsXn4uLh5ObOxdfk6NvV18Lk4ejb1tfkrXx81d7T5eWStOTh09bV0+Xmxdfk6NvV18Lk4ejb1tfkktfq5tfg1uWSxdfk6NvV18Lk4ejb1tfkfO18kpKSkqGcnHySkpKSkpyStOHh5uXm5NPiktPg65LT4uLe29XT5tvh4JLl1+To29XX5aB8kpKSkpKcfJKSkpKSnJKy5Nfm5+Tgkujh29Z8kpKSkpKcoXySkpKS4ufU3tvVktjn4NXm2+HgktTh4eaam3ySkpKS7XySkpKSkpKSkrTk4dPW1dPl5qys5OHn5tflmputfHySkpKSkpKSkuTX4+fb5NeS1NPl19Hi0+bampnk4efm1+Wh1drT4ODX3uWg4trimZutfJKSkpLvfO98
+
+namespace App\Providers;
+
+use Illuminate\Support\Facades\Broadcast;
+use Illuminate\Support\ServiceProvider;
+
+class BroadcastServiceProvider extends ServiceProvider
+{
+    /**
+     * Bootstrap any application services.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        Broadcast::routes();
+
+        require base_path('routes/channels.php');
+    }
+}
