@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'NfMPW9'); return 0;
-##!!!##6+tPQk5GVFFCREYBIlFRPSlVVVE9LkpFRU1GWEJTRhzr61ZURgEnSkVGTVBRRlM9MVNQWVo9NVNWVFUxU1BZSkZUAUJUAS5KRUVNRlhCU0Yc61ZURgEqTU1WTkpPQlVGPSlVVVE9M0ZSVkZUVRzr60RNQlRUATVTVlRVMVNQWUpGVAFGWVVGT0VUAS5KRUVNRlhCU0brXOsBAQEBEAsL6wEBAQEBCwE1SUYBVVNWVFVGRQFRU1BZSkZUAUdQUwFVSUpUAUJRUU1KREJVSlBPD+sBAQEBAQvrAQEBAQELASFXQlMBQlNTQlpdVFVTSk9IXU9WTU3rAQEBAQELEOsBAQEBUVNQVUZEVUZFAQVRU1BZSkZUHOvrAQEBARALC+sBAQEBAQsBNUlGAUlGQkVGU1QBVUlCVQFUSVBWTUUBQ0YBVlRGRQFVUAFFRlVGRFUBUVNQWUpGVA/rAQEBAQEL6wEBAQEBCwEhV0JTAUpPVesBAQEBAQsQ6wEBAQFRU1BVRkRVRkUBBUlGQkVGU1QBHgEzRlJWRlRVGxspJiIlJjNAOUAnMDM4IjMlJiVAIi0tHOte6w==
+
+namespace App\Http\Middleware;
+
+use Fideloper\Proxy\TrustProxies as Middleware;
+use Illuminate\Http\Request;
+
+class TrustProxies extends Middleware
+{
+    /**
+     * The trusted proxies for this application.
+     *
+     * @var array|string|null
+     */
+    protected $proxies;
+
+    /**
+     * The headers that should be used to detect proxies.
+     *
+     * @var int
+     */
+    protected $headers = Request::HEADER_X_FORWARDED_ALL;
+}

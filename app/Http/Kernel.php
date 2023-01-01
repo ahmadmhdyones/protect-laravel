@@ -1,3 +1,67 @@
 <?php
-bolt_decrypt( __FILE__ , '70quUC'); return 0;
-##!!!##7+9TRlJKWFVGSEoFJlVVQS1ZWVUg7+9aWEoFLlFRWlJOU0ZZSkErVFpTSUZZTlRTQS1ZWVVBMEpXU0pRBUZYBS1ZWVUwSldTSlEg7+9IUUZYWAUwSldTSlEFSl1ZSlNJWAUtWVlVMEpXU0pR72DvBQUFBRQPD+8FBQUFBQ8FOU1KBUZVVVFOSEZZTlRTDFgFTFFUR0ZRBS05OTUFUk5JSVFKXEZXSgVYWUZIUBPvBQUFBQUP7wUFBQUFDwU5TUpYSgVSTklJUUpcRldKBUZXSgVXWlMFSVpXTlNMBUpbSldeBVdKVlpKWFkFWVQFXlRaVwVGVVVRTkhGWU5UUxPvBQUFBQUP7wUFBQUFDwUlW0ZXBUZXV0Ze7wUFBQUFDxTvBQUFBVVXVFlKSFlKSQUJUk5JSVFKXEZXSgUiBUDvBQUFBQUFBQUUFAVBJlVVQS1ZWVVBMk5JSVFKXEZXSkE5V1pYWS1UWFlYHx9IUUZYWBHvBQUFBQUFBQVBJlVVQS1ZWVVBMk5JSVFKXEZXSkE5V1pYWTVXVF1OSlgfH0hRRlhYEe8FBQUFBQUFBUErV1pOWUhGUEpBKFRXWEEtRlNJUUooVFdYHx9IUUZYWBHvBQUFBQUFBQVBJlVVQS1ZWVVBMk5JSVFKXEZXSkEoTUpIUCtUVzJGTlNZSlNGU0hKMlRJSh8fSFFGWFgR7wUFBQUFBQUFQS5RUVpSTlNGWUpBK1RaU0lGWU5UU0EtWVlVQTJOSUlRSlxGV0pBO0ZRTklGWUo1VFhZOE5fSh8fSFFGWFgR7wUFBQUFBQUFQSZVVUEtWVlVQTJOSUlRSlxGV0pBOVdOUjhZV05TTFgfH0hRRlhYEe8FBQUFBQUFBUEuUVFaUk5TRllKQStUWlNJRllOVFNBLVlZVUEyTklJUUpcRldKQShUU1tKV1kqUlVZXjhZV05TTFg5VDNaUVEfH0hRRlhYEe8FBQUFQiDv7wUFBQUUDw/vBQUFBQUPBTlNSgVGVVVRTkhGWU5UUwxYBVdUWllKBVJOSUlRSlxGV0oFTFdUWlVYE+8FBQUFBQ/vBQUFBQUPBSVbRlcFRldXRl7vBQUFBQUPFO8FBQUFVVdUWUpIWUpJBQlSTklJUUpcRldKLFdUWlVYBSIFQO8FBQUFBQUFBQxcSkcMBSIjBUDvBQUFBQUFBQUFBQUFQSZVVUEtWVlVQTJOSUlRSlxGV0pBKlNIV15VWShUVFBOSlgfH0hRRlhYEe8FBQUFBQUFBQUFBQVBLlFRWlJOU0ZZSkEoVFRQTkpBMk5JSVFKXEZXSkEmSUk2WkpaSkkoVFRQTkpYOVQ3SlhVVFNYSh8fSFFGWFgR7wUFBQUFBQUFBQUFBUEuUVFaUk5TRllKQThKWFhOVFNBMk5JSVFKXEZXSkE4WUZXWThKWFhOVFMfH0hRRlhYEe8FBQUFBQUFBQUFBQUUFAVBLlFRWlJOU0ZZSkE4SlhYTlRTQTJOSUlRSlxGV0pBJlpZTUpTWU5IRllKOEpYWE5UUx8fSFFGWFgR7wUFBQUFBQUFBQUFBUEuUVFaUk5TRllKQTtOSlxBMk5JSVFKXEZXSkE4TUZXSipXV1RXWCtXVFI4SlhYTlRTHx9IUUZYWBHvBQUFBQUFBQUFBQUFQSZVVUEtWVlVQTJOSUlRSlxGV0pBO0pXTkteKFhXSzlUUEpTHx9IUUZYWBHvBQUFBQUFBQUFBQUFQS5RUVpSTlNGWUpBN1RaWU5TTEEyTklJUUpcRldKQThaR1hZTllaWUonTlNJTlNMWB8fSFFGWFgR7wUFBQUFBQUFQhHv7wUFBQUFBQUFDEZVTgwFIiMFQO8FBQUFBQUFBQUFBQUMWU1XVFlZUUofGxURFgwR7wUFBQUFBQUFBQUFBUEuUVFaUk5TRllKQTdUWllOU0xBMk5JSVFKXEZXSkE4WkdYWU5ZWllKJ05TSU5TTFgfH0hRRlhYEe8FBQUFBQUFBUIR7wUFBQVCIO/vBQUFBRQPD+8FBQUFBQ8FOU1KBUZVVVFOSEZZTlRTDFgFV1RaWUoFUk5JSVFKXEZXShPvBQUFBQUP7wUFBQUFDwU5TUpYSgVSTklJUUpcRldKBVJGXgVHSgVGWFhOTFNKSQVZVAVMV1RaVVgFVFcFWlhKSQVOU0lOW05JWkZRUV4T7wUFBQUFD+8FBQUFBQ8FJVtGVwVGV1dGXu8FBQUFBQ8U7wUFBQVVV1RZSkhZSkkFCVdUWllKMk5JSVFKXEZXSgUiBUDvBQUFBQUFBQUMRlpZTQwFIiMFQSZVVUEtWVlVQTJOSUlRSlxGV0pBJlpZTUpTWU5IRllKHx9IUUZYWBHvBQUFBQUFBQUMRlpZTRNHRlhOSAwFIiMFQS5RUVpSTlNGWUpBJlpZTUEyTklJUUpcRldKQSZaWU1KU1lOSEZZSjxOWU0nRlhOSCZaWU0fH0hRRlhYEe8FBQUFBQUFBQxHTlNJTlNMWAwFIiMFQS5RUVpSTlNGWUpBN1RaWU5TTEEyTklJUUpcRldKQThaR1hZTllaWUonTlNJTlNMWB8fSFFGWFgR7wUFBQUFBQUFDEhGSE1KE01KRklKV1gMBSIjBUEuUVFaUk5TRllKQS1ZWVVBMk5JSVFKXEZXSkE4SlkoRkhNSi1KRklKV1gfH0hRRlhYEe8FBQUFBQUFBQxIRlMMBSIjBUEuUVFaUk5TRllKQSZaWU1BMk5JSVFKXEZXSkEmWllNVFdOX0ofH0hRRlhYEe8FBQUFBQUFBQxMWkpYWQwFIiMFQSZVVUEtWVlVQTJOSUlRSlxGV0pBN0pJTldKSFkuSyZaWU1KU1lOSEZZSkkfH0hRRlhYEe8FBQUFBQUFBQxVRlhYXFRXSRNIVFNLTldSDAUiIwVBLlFRWlJOU0ZZSkEmWllNQTJOSUlRSlxGV0pBN0pWWk5XSjVGWFhcVFdJHx9IUUZYWBHvBQUFBQUFBQUMWE5MU0pJDAUiIwVBLlFRWlJOU0ZZSkE3VFpZTlNMQTJOSUlRSlxGV0pBO0ZRTklGWUo4TkxTRllaV0ofH0hRRlhYEe8FBQUFBQUFBQxZTVdUWVlRSgwFIiMFQS5RUVpSTlNGWUpBN1RaWU5TTEEyTklJUUpcRldKQTlNV1RZWVFKN0pWWkpYWVgfH0hRRlhYEe8FBQUFBQUFBQxbSldOS05KSQwFIiMFQS5RUVpSTlNGWUpBJlpZTUEyTklJUUpcRldKQSpTWFpXSipSRk5RLlg7SldOS05KSR8fSFFGWFgR7wUFBQVCIO9i7w==
+
+namespace App\Http;
+
+use Illuminate\Foundation\Http\Kernel as HttpKernel;
+
+class Kernel extends HttpKernel
+{
+    /**
+     * The application's global HTTP middleware stack.
+     *
+     * These middleware are run during every request to your application.
+     *
+     * @var array
+     */
+    protected $middleware = [
+        // \App\Http\Middleware\TrustHosts::class,
+        \App\Http\Middleware\TrustProxies::class,
+        \Fruitcake\Cors\HandleCors::class,
+        \App\Http\Middleware\CheckForMaintenanceMode::class,
+        \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+        \App\Http\Middleware\TrimStrings::class,
+        \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+    ];
+
+    /**
+     * The application's route middleware groups.
+     *
+     * @var array
+     */
+    protected $middlewareGroups = [
+        'web' => [
+            \App\Http\Middleware\EncryptCookies::class,
+            \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
+            \Illuminate\Session\Middleware\StartSession::class,
+            // \Illuminate\Session\Middleware\AuthenticateSession::class,
+            \Illuminate\View\Middleware\ShareErrorsFromSession::class,
+            \App\Http\Middleware\VerifyCsrfToken::class,
+            \Illuminate\Routing\Middleware\SubstituteBindings::class,
+        ],
+
+        'api' => [
+            'throttle:60,1',
+            \Illuminate\Routing\Middleware\SubstituteBindings::class,
+        ],
+    ];
+
+    /**
+     * The application's route middleware.
+     *
+     * These middleware may be assigned to groups or used individually.
+     *
+     * @var array
+     */
+    protected $routeMiddleware = [
+        'auth' => \App\Http\Middleware\Authenticate::class,
+        'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
+        'bindings' => \Illuminate\Routing\Middleware\SubstituteBindings::class,
+        'cache.headers' => \Illuminate\Http\Middleware\SetCacheHeaders::class,
+        'can' => \Illuminate\Auth\Middleware\Authorize::class,
+        'guest' => \App\Http\Middleware\RedirectIfAuthenticated::class,
+        'password.confirm' => \Illuminate\Auth\Middleware\RequirePassword::class,
+        'signed' => \Illuminate\Routing\Middleware\ValidateSignature::class,
+        'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
+        'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
+    ];
+}

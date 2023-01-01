@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'QlK59i'); return 0;
-##!!!##6elNQExEUk9AQkT/IE9POydTU087LEhDQ0tEVkBRRBrp6VRSRP8oS0tUTEhNQFNEOyVOVE1DQFNITk07J1NTTzssSENDS0RWQFFEOzNRSEwyU1FITUZS/0BS/yxIQ0NLRFZAUUQa6elCS0BSUv8zUUhMMlNRSE1GUv9EV1NETUNS/yxIQ0NLRFZAUUTpWun/////DgkJ6f//////Cf8zR0T/TUBMRFL/TkX/U0dE/0BTU1FIQVRTRFL/U0dAU/9SR05US0P/TU5T/0FE/1NRSExMREMN6f//////Cen//////wn/H1VAUf9AUVFAWOn//////wkO6f////9PUU5TREJTREP/A0RXQkRPU/8c/zrp//////////8GT0BSUlZOUUMGC+n//////////wZPQFJSVk5RQz5CTk1FSFFMQFNITk0GC+n/////PBrpXOk=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Foundation\Http\Middleware\TrimStrings as Middleware;
+
+class TrimStrings extends Middleware
+{
+    /**
+     * The names of the attributes that should not be trimmed.
+     *
+     * @var array
+     */
+    protected $except = [
+        'password',
+        'password_confirmation',
+    ];
+}

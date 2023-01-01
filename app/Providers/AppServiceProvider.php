@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'X25CLK'); return 0;
-##!!!##o6MH+gb+DAn6/P652gkJ9ekLCA8C/f4LDNSjow4M/rniBQUOBgIH+g3+9ewOCQkICw317P4LDwL8/ukLCA8C/f4L1KOj/AX6DAy52gkJ7P4LDwL8/ukLCA8C/f4Luf4RDf4H/Qy57P4LDwL8/ukLCA8C/f4LoxSjubm5ucjDw6O5ubm5ucO56/4AAgwN/gu5+gcSufoJCQUC/PoNAggHuQz+Cw8C/P4Mx6O5ubm5ucOjubm5ubnDudkL/g0OCwe5DwgC/aO5ubm5ucPIo7m5ubkJDvsFAvy5/w4H/A0CCAe5C/4AAgwN/gvBwqO5ubm5FKO5ubm5ubm5ucjIo7m5ubkWo6O5ubm5yMPDo7m5ubm5w7nbCAgNDA0L+gm5+gcSufoJCQUC/PoNAggHuQz+Cw8C/P4Mx6O5ubm5ucOjubm5ubnDudkL/g0OCwe5DwgC/aO5ubm5ucPIo7m5ubkJDvsFAvy5/w4H/A0CCAe5+wgIDcHCo7m5ubkUo7m5ubm5ubm5yMijubm5uRajFqM=
+
+namespace App\Providers;
+
+use Illuminate\Support\ServiceProvider;
+
+class AppServiceProvider extends ServiceProvider
+{
+    /**
+     * Register any application services.
+     *
+     * @return void
+     */
+    public function register()
+    {
+        //
+    }
+
+    /**
+     * Bootstrap any application services.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        //
+    }
+}
