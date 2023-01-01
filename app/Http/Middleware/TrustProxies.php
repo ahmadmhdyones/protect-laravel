@@ -1,23 +1,3 @@
 <?php
-
-namespace App\Http\Middleware;
-
-use Fideloper\Proxy\TrustProxies as Middleware;
-use Illuminate\Http\Request;
-
-class TrustProxies extends Middleware
-{
-    /**
-     * The trusted proxies for this application.
-     *
-     * @var array|string|null
-     */
-    protected $proxies;
-
-    /**
-     * The headers that should be used to detect proxies.
-     *
-     * @var int
-     */
-    protected $headers = Request::HEADER_X_FORWARDED_ALL;
-}
+bolt_decrypt( __FILE__ , 'b9TIkR'); return 0;
+##!!!##//9jVmJaaGVWWFoVNmVlUT1paWVRQl5ZWWFabFZnWjD//2poWhU7XllaYWRlWmdRRWdkbW5RSWdqaGlFZ2RtXlpoFVZoFUJeWVlhWmxWZ1ow/2poWhU+YWFqYl5jVmlaUT1paWVRR1pmalpoaTD//1hhVmhoFUlnamhpRWdkbV5aaBVabWlaY1loFUJeWVlhWmxWZ1r/cP8VFRUVJB8f/xUVFRUVHxVJXVoVaWdqaGlaWRVlZ2RtXlpoFVtkZxVpXV5oFVZlZWFeWFZpXmRjI/8VFRUVFR//FRUVFRUfFTVrVmcVVmdnVm5xaGlnXmNccWNqYWH/FRUVFRUfJP8VFRUVZWdkaVpYaVpZFRllZ2RtXlpoMP//FRUVFSQfH/8VFRUVFR8VSV1aFV1aVllaZ2gVaV1WaRVoXWRqYVkVV1oVamhaWRVpZBVZWmlaWGkVZWdkbV5aaCP/FRUVFRUf/xUVFRUVHxU1a1ZnFV5jaf8VFRUVFR8k/xUVFRVlZ2RpWlhpWlkVGV1aVllaZ2gVMhVHWmZqWmhpLy89OjY5OkdUTVQ7REdMNkc5OjlUNkFBMP9y/w==

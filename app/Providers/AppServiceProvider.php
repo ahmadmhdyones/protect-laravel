@@ -1,28 +1,3 @@
 <?php
-
-namespace App\Providers;
-
-use Illuminate\Support\ServiceProvider;
-
-class AppServiceProvider extends ServiceProvider
-{
-    /**
-     * Register any application services.
-     *
-     * @return void
-     */
-    public function register()
-    {
-        //
-    }
-
-    /**
-     * Bootstrap any application services.
-     *
-     * @return void
-     */
-    public function boot()
-    {
-        //
-    }
-}
+bolt_decrypt( __FILE__ , 'ov4ae5'); return 0;
+##!!!##Hh6CdYF5h4R1d3k0VYSEcGSGg4p9eHmGh08eHomHeTRdgICJgX2CdYh5cGeJhISDhohwZ3mGin13eWSGg4p9eHmGTx4ed4B1h4c0VYSEZ3mGin13eWSGg4p9eHmGNHmMiHmCeIc0Z3mGin13eWSGg4p9eHmGHo8eNDQ0NEM+Ph40NDQ0ND40Znl7fYeIeYY0dYKNNHWEhIB9d3WIfYOCNId5hop9d3mHQh40NDQ0ND4eNDQ0NDQ+NFSGeYiJhoI0ioN9eB40NDQ0ND5DHjQ0NDSEiXaAfXc0eomCd4h9g4I0hnl7fYeIeYY8PR40NDQ0jx40NDQ0NDQ0NENDHjQ0NDSRHh40NDQ0Qz4+HjQ0NDQ0PjRWg4OIh4iGdYQ0dYKNNHWEhIB9d3WIfYOCNId5hop9d3mHQh40NDQ0ND4eNDQ0NDQ+NFSGeYiJhoI0ioN9eB40NDQ0ND5DHjQ0NDSEiXaAfXc0eomCd4h9g4I0doODiDw9HjQ0NDSPHjQ0NDQ0NDQ0Q0MeNDQ0NJEekR4=

@@ -1,17 +1,3 @@
 <?php
-
-namespace App\Http\Controllers;
-
-use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
-use Illuminate\Foundation\Bus\DispatchesJobs;
-use Illuminate\Foundation\Validation\ValidatesRequests;
-use Illuminate\Routing\Controller as BaseController;
-
-class Controller extends BaseController
-{
-    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
-
-    public function test_protect() {
-        return "Cillum sunt sunt esse quis. Irure ad anim occaecat eiusmod occaecat tempor. Duis ullamco minim esse magna ullamco occaecat nostrud fugiat adipisicing sit. Culpa ad occaecat enim minim veniam mollit sunt dolore irure sint occaecat. Id ex voluptate nisi mollit aliquip nulla. Dolore aliquip dolor nulla eiusmod proident et nostrud eu cillum ut.";
-    }
-}
+bolt_decrypt( __FILE__ , 'qTSdHy'); return 0;
+##!!!##R0ernqqisK2eoKJdfq2tmYWxsa2ZgKyrsa+sqamir7B4R0eysKJdhqmpsqqmq56xopmDrLKroZ6xpqyrmX6ysaWZfqCgorCwmX6ysaWsr6a3orCPoq6yorCxsHhHsrCiXYapqbKqpquesaKZg6yyq6Gesaasq5l/srCZgaawrZ6xoKWisIesn7B4R7Kwol2GqamyqqarnrGimYOssquhnrGmrKuZk56ppqGesaasq5mTnqmmoZ6xorCPoq6yorCxsHhHsrCiXYapqbKqpquesaKZj6yysaarpJmArKuxr6ypqaKvXZ6wXX+esKKArKuxr6ypqaKveEdHoKmesLBdgKyrsa+sqamir12itbGiq6GwXX+esKKArKuxr6ypqaKvR7hHXV1dXbKwol1+srGlrK+mt6Kwj6KusqKwsbBpXYGmsK2esaClorCHrJ+waV2TnqmmoZ6xorCPoq6yorCxsHhHR11dXV2tsp+ppqBdo7KroLGmrKtdsaKwsZytr6yxoqCxZWZduEddXV1dXV1dXa+isbKvq11fgKapqbKqXbCyq7FdsLKrsV2isLCiXa6yprBrXYavsq+iXZ6hXZ6rpqpdrKCgnqKgnrFdoqaysKqsoV2soKCeoqCesV2xoqqtrK9rXYGyprBdsqmpnqqgrF2qpqumql2isLCiXaqepKueXbKpqZ6qoKxdrKCgnqKgnrFdq6ywsa+yoV2jsqSmnrFdnqGmraawpqCmq6RdsKaxa12Asqmtnl2eoV2soKCeoqCesV2iq6aqXaqmq6aqXbOiq6aeql2qrKmpprFdsLKrsV2hrKmsr6Jdpq+yr6JdsKarsV2soKCeoqCesWtdhqFdorVds6ypsq2xnrGiXaumsKZdqqypqaaxXZ6ppq6ypq1dq7KpqZ5rXYGsqayvol2eqaausqatXaGsqayvXauyqameXaKmsrCqrKFdra+spqGiq7FdorFdq6ywsa+yoV2isl2gpqmpsqpdsrFrX3hHXV1dXbpHukc=

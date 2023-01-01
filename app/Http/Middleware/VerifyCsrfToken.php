@@ -1,17 +1,3 @@
 <?php
-
-namespace App\Http\Middleware;
-
-use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as Middleware;
-
-class VerifyCsrfToken extends Middleware
-{
-    /**
-     * The URIs that should be excluded from CSRF verification.
-     *
-     * @var array
-     */
-    protected $except = [
-        //
-    ];
-}
+bolt_decrypt( __FILE__ , '4PUm8X'); return 0;
+##!!!##4OBEN0M7SUY3OTv2F0ZGMh5KSkYyIz86OkI7TTdIOxHg4EtJO/YfQkJLQz9EN0o7MhxFS0Q6N0o/RUQyHkpKRjIjPzo6QjtNN0g7Miw7SD88TxlJSDwqRUE7RPY3SfYjPzo6QjtNN0g7EeDgOUI3SUn2LDtIPzxPGUlIPCpFQTtE9jtOSjtEOkn2Iz86OkI7TTdIO+BR4Pb29vYFAADg9vb29vYA9io+O/YrKB9J9ko+N0r2ST5FS0I69jg79jtOOUJLOjs69jxIRUP2GSkoHPZMO0g/PD85N0o/RUQE4Pb29vb2AOD29vb29gD2Fkw3SPY3SEg3T+D29vb29gAF4Pb29vZGSEVKOzlKOzr2+jtOOTtGSvYT9jHg9vb29vb29vYFBeD29vb2MxHgU+A=

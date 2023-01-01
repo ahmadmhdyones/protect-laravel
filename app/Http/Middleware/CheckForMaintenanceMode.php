@@ -1,17 +1,3 @@
 <?php
-
-namespace App\Http\Middleware;
-
-use Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode as Middleware;
-
-class CheckForMaintenanceMode extends Middleware
-{
-    /**
-     * The URIs that should be reachable while maintenance mode is enabled.
-     *
-     * @var array
-     */
-    protected $except = [
-        //
-    ];
-}
+bolt_decrypt( __FILE__ , 'JkWIGu'); return 0;
+##!!!##Gxt/cn52hIFydHYxUoGBbVmFhYFtXnp1dX12iHKDdkwbG4aEdjFafX2Gfnp/coV2bVeAhn91coV6gH9tWYWFgW1eenV1fXaIcoN2bVR5dnR8V4CDXnJ6f4V2f3J/dHZegHV2MXKEMV56dXV9dohyg3ZMGxt0fXKEhDFUeXZ0fFeAg15yen+Fdn9yf3R2XoB1djF2iYV2f3WEMV56dXV9dohyg3YbjBsxMTExQDs7GzExMTExOzFleXYxZmNahDGFeXKFMYR5gIZ9dTFzdjGDdnJ0eXJzfXYxiHl6fXYxfnJ6f4V2f3J/dHYxfoB1djF6hDF2f3JzfXZ1PxsxMTExMTsbMTExMTE7MVGHcoMxcoODcoobMTExMTE7QBsxMTExgYOAhXZ0hXZ1MTV2iXR2gYUxTjFsGzExMTExMTExQEAbMTExMW5MG44b
